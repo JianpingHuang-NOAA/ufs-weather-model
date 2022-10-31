@@ -43,4 +43,5 @@
 #  url = https://github.com/NOAA-EMC/AQM
 #  branch = develop
   url = https://github.com/JianpingHuang-NOAA/AQM
-  branch = aqm_rescld_wdep 
+  branch = scavenge_pt
+#  branch = aqm_rescld_wdep 
