@@ -13,6 +13,6 @@
 [submodule "AQM"]
   path = AQM
   url = https://github.com/JianpingHuang-NOAA/AQM
-  branch = fire_poc 
+  branch = aqm.v7.1.0 
 #  url = https://github.com/NOAA-EMC/AQM
 #  branch = production/AQM.v7
